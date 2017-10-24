@@ -2,7 +2,7 @@
 nav: index
 ---
 
-![alt text](https://raw.githubusercontent.com/UCFScienceClub/UCFScienceClub.github.io/master/img/ist.jpg "Science Club")
+![UCF IST Building](https://raw.githubusercontent.com/UCFScienceClub/UCFScienceClub.github.io/master/img/ist.jpg "Science Club")
 
 
 # About
